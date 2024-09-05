@@ -1,0 +1,63 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h1> Лабораторная работа 1</h1>
+<h2> Список </h2>
+<ol class="list-group" type="A">
+    <li>Пример 1</li>
+    <li>Пример 2</li>
+    <li>Пример 3</li>
+    <li>Пример 4</li>
+    <li>Пример 5</li>
+</ol>
+<hr />
+<div class="">
+    <h2>Форма</h2>
+    <form method="get">
+        <ol>
+            <li>
+                <label for="inputName" class="form-label">Имя</label>
+                <input type="text" id="inputName" name="name" class="form-control" placeholder="Введите ваше имя" required>
+            </li>
+            <li>
+                <label for="inputEmail" class="form-label">Email</label>
+                <input type="email" id="inputEmail" name="email" class="form-control" placeholder="Введите ваш Email" required>
+            </li>
+            <li>
+                <label class="form-label">Пол</label>
+                <div class="d-flex">
+                    <div class="form-check me-3">
+                        <input class="form-check-input" type="radio" name="gender" id="genderMale" value="male">
+                        <label class="form-check-label" for="genderMale">Мужской</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="gender" id="genderFemale" value="female">
+                        <label class="form-check-label" for="genderFemale">Женский</label>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="subscribe" name="subscribe" value="yes">
+                    <label class="form-check-label" for="subscribe">Подписаться на рассылку</label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck1">
+                    <label class="form-check-label" for="gridCheck1"> Права администратора </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" id="gridCheck2">
+                    <label class="form-check-label" for="gridCheck2"> Просто так </label>
+                </div>
+            </li>
+        </ol>
+        <button type="submit" class="btn btn-primary">Отправить</button><br />
+    </form>
+</div>
+<br />
+
+
+@section scripts{
+
+}
