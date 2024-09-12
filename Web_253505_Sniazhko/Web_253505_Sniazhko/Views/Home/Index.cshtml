@@ -1,8 +1,10 @@
-﻿@{
-    ViewBag.Title = "Index";
+﻿@model Web_253505_Sniazhko.Models.IndexViewModel
+
+@{
+    var items = new[] { "Пример 1", "Пример 2", "Пример 3", "Пример 4", "Пример 5" };
 }
 
-<h1> Лабораторная работа 1</h1>
+<h1> @ViewData["Title"] </h1>
 <h2> Список </h2>
 <ol class="list-group" type="A">
     <li>Пример 1</li>
@@ -11,10 +13,20 @@
     <li>Пример 4</li>
     <li>Пример 5</li>
 </ol>
-<hr />
+
+<h2> Список </h2>
+
+<ol class="list-grout">
+    @for (int i = 0; i < items.Length; i++)
+    {
+        <li>@items[i]</li>
+    }
+</ol>
+
+<hr/>
 <div class="">
     <h2>Форма</h2>
-    <form method="get">
+    <form method="post">
         <ol>
             <li>
                 <label for="inputName" class="form-label">Имя</label>
@@ -50,6 +62,10 @@
                     <input class="form-check-input" type="checkbox" id="gridCheck2">
                     <label class="form-check-label" for="gridCheck2"> Просто так </label>
                 </div>
+            </li>
+            <li>
+                <label for="itemSelect" class="form-label">Выберите элемент</label>
+                <select id="itemSelect" name="selectedItem" class="form-select" asp-items="Model.ListDemo"></select>
             </li>
         </ol>
         <button type="submit" class="btn btn-primary">Отправить</button><br />

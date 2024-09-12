@@ -1,0 +1,7 @@
+﻿@model dynamic
+
+<div class="navbar-text ms-auto">
+    <a asp-area="" asp-controller="Cart" asp-action="Index" class="nav-link">
+        @Model.TotalPrice,0 руб <i class="fa-solid fa-cart-shopping"></i> (@Model.TotalItems)
+    </a>
+</div>
