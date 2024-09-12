@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Web_253505_Sniazhko.UI/1.0.0": {
+        "dependencies": {
+          "Web_253505_Sniazhko.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Web_253505_Sniazhko.UI.dll": {}
+        }
+      },
+      "Web_253505_Sniazhko.Domain/1.0.0": {
+        "runtime": {
+          "Web_253505_Sniazhko.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Web_253505_Sniazhko.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Web_253505_Sniazhko.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\bin\Debug\net8.0\Web_253505_Sniazhko.Domain.deps.json
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\bin\Debug\net8.0\Web_253505_Sniazhko.Domain.dll
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\bin\Debug\net8.0\Web_253505_Sniazhko.Domain.pdb
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\Web_253505_Sniazhko.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\Web_253505_Sniazhko.Domain.AssemblyInfoInputs.cache
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\Web_253505_Sniazhko.Domain.AssemblyInfo.cs
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\Web_253505_Sniazhko.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\Web_253505_Sniazhko.Domain.dll
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\refint\Web_253505_Sniazhko.Domain.dll
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\Web_253505_Sniazhko.Domain.pdb
+C:\Users\maksk\Desktop\C#\Web_253505_Sniazhko\Web_253505_Sniazhko.Domain\obj\Debug\net8.0\ref\Web_253505_Sniazhko.Domain.dll
