@@ -1,0 +1,6 @@
+@Web_253505_Sniazhko.API_HostAddress = http://localhost:5082
+
+GET {{Web_253505_Sniazhko.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

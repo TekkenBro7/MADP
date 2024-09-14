@@ -1,101 +1,161 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\",
+  "WorkspaceRootPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\apiinteraction\\services\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\apiinteraction\\services\\apiproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\apiinteraction\\services\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\apiinteraction\\services\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|solutionrelative:web_253505_sniazhko.domain\\models\\responsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|solutionrelative:web_253505_sniazhko.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|solutionrelative:web_253505_sniazhko.domain\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|solutionrelative:web_253505_sniazhko.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\apiinteraction\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\apiinteraction\\uridata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\home\\lab1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\home\\lab1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\services\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\services\\productservice\\memoryproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|solutionrelative:web_253505_sniazhko.domain\\models\\productlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\services\\categoryservice\\memorycategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D62FA22-D3B3-4955-875F-4C46B5662E39}|Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj|solutionrelative:web_253505_sniazhko.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}|Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj|solutionrelative:web_253505_sniazhko.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\components\\cart\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\_userinfopartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\shared\\_menupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\services\\productservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\views\\home\\lab1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\views\\home\\lab1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\models\\listdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\models\\indexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\c#\\web_253505_sniazhko\\web_253505_sniazhko.ui\\controllers\\cartcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.ui\\controllers\\cartcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3A33225-E5B7-497F-8D13-E70A5317A5D4}|Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj|solutionrelative:web_253505_sniazhko.ui\\controllers\\cartcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,277 +166,268 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "default.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T11:29:40.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_UserInfoPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T11:29:33.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T11:09:25.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T08:56:49.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MemoryProductService.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "ApiProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiProductService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiProductService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiProductService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiProductService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:06:58.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HostingExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:02:10.32Z",
+              "WhenOpened": "2024-09-14T08:13:30.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Web_253505_Sniazhko.UI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T08:47:21.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Extensions\\HostingExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:02:10.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\appsettings.json",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T07:40:35.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T08:56:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiCategoryService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiCategoryService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiCategoryService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\ApiInteraction\\Services\\ApiCategoryService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:13:11.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Program.cs",
               "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Program.cs",
               "RelativeToolTip": "Web_253505_Sniazhko.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T10:09:16.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T08:46:49.56Z",
+              "DocumentIndex": 8,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T18:56:18.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-12T10:00:29.676Z",
+              "DocumentIndex": 6,
+              "Title": "UriData.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\ApiInteraction\\UriData.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\ApiInteraction\\UriData.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\ApiInteraction\\UriData.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\ApiInteraction\\UriData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:11:36.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Controllers\\DishesController.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Controllers\\DishesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:36:20.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_MenuPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Services\\CategoryService\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T08:59:59.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MemoryCategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T07:59:38.807Z"
+              "WhenOpened": "2024-09-14T08:11:17.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAzAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Services\\ProductService\\ProductService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Services\\ProductService\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:03:57.765Z"
+              "WhenOpened": "2024-09-13T15:25:56.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ProductListModel.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Services\\ProductService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T07:59:46.029Z"
+              "WhenOpened": "2024-09-13T17:05:49.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ResponseData.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Models\\ResponseData.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Domain\\Models\\ResponseData.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Models\\ResponseData.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.Domain\\Models\\ResponseData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T07:59:45.172Z"
+              "WhenOpened": "2024-09-12T19:37:21.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\appsettings.json",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\appsettings.json",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-12T07:40:35.676Z"
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:16:44.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Services\\CategoryService\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Services\\CategoryService\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:47:11.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T07:59:43.225Z"
+              "WhenOpened": "2024-09-13T15:21:04.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Dish.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Entities\\Dish.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Domain\\Entities\\Dish.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Entities\\Dish.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.Domain\\Entities\\Dish.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAAVAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T08:05:17.227Z"
+              "WhenOpened": "2024-09-12T18:17:27.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Services\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:42:58.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Program.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Program.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Program.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T15:13:45.413Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Lab1.cshtml",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T18:26:56.596Z"
+              "Title": "MemoryProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Services\\ProductService\\MemoryProductService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:06:58.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "ListDemo.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
-              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:05:39.621Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Web_253505_Sniazhko.UI\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,11 +435,203 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductListModel.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.Domain\\Models\\ProductListModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:59:46.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:59:43.225Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "MemoryCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Services\\CategoryService\\MemoryCategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:59:38.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\WeatherForecast.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:16:40.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\appsettings.json",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T19:09:58.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web_253505_Sniazhko.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T19:14:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_UserInfoPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\_UserInfoPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:29:33.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:09:25.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "default.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\Components\\Cart\\default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T11:29:40.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T08:46:49.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T10:00:29.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_MenuPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Shared\\_MenuPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T08:59:59.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Services\\ProductService\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:03:57.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:47:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Lab1.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Views\\Home\\Lab1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:26:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ListDemo.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
+              "RelativeToolTip": "Web_253505_Sniazhko.UI\\Models\\ListDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:05:39.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "IndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\IndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\IndexViewModel.cs",
               "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Models\\IndexViewModel.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\IndexViewModel.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Models\\IndexViewModel.cs",
               "RelativeToolTip": "Web_253505_Sniazhko.UI\\Models\\IndexViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +639,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "CartController1.cs",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\CartController1.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\CartController1.cs",
               "RelativeDocumentMoniker": "Web_253505_Sniazhko.UI\\Controllers\\CartController1.cs",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\CartController1.cs",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Controllers\\CartController1.cs",
               "RelativeToolTip": "Web_253505_Sniazhko.UI\\Controllers\\CartController1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

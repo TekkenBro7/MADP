@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Борщ.jpg",
+      "PackagePath": "staticwebassets\\Images\\Борщ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Брускетта.jpg",
+      "PackagePath": "staticwebassets\\Images\\Брускетта.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Греческий.jpg",
+      "PackagePath": "staticwebassets\\Images\\Греческий.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Креветки.jpg",
+      "PackagePath": "staticwebassets\\Images\\Креветки.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\КрылышкиBBQ.jpg",
+      "PackagePath": "staticwebassets\\Images\\КрылышкиBBQ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\ПастаКарбонара.jpg",
+      "PackagePath": "staticwebassets\\Images\\ПастаКарбонара.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\СтейкГавядина.jpg",
+      "PackagePath": "staticwebassets\\Images\\СтейкГавядина.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Суп-харчо.jpg",
+      "PackagePath": "staticwebassets\\Images\\Суп-харчо.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Фалафель.jpg",
+      "PackagePath": "staticwebassets\\Images\\Фалафель.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Цезарь.jpg",
+      "PackagePath": "staticwebassets\\Images\\Цезарь.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_253505_Sniazhko.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_253505_Sniazhko.API.props",
+      "PackagePath": "build\\Web_253505_Sniazhko.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_253505_Sniazhko.API.props",
+      "PackagePath": "buildMultiTargeting\\Web_253505_Sniazhko.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_253505_Sniazhko.API.props",
+      "PackagePath": "buildTransitive\\Web_253505_Sniazhko.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_253505_Sniazhko.UI", "Web_253505_Sniazhko.UI\Web_253505_Sniazhko.UI.csproj", "{B3A33225-E5B7-497F-8D13-E70A5317A5D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_253505_Sniazhko.Domain", "Web_253505_Sniazhko.Domain\Web_253505_Sniazhko.Domain.csproj", "{6D62FA22-D3B3-4955-875F-4C46B5662E39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_253505_Sniazhko.Domain", "Web_253505_Sniazhko.Domain\Web_253505_Sniazhko.Domain.csproj", "{6D62FA22-D3B3-4955-875F-4C46B5662E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_253505_Sniazhko.API", "Web_253505_Sniazhko.API\Web_253505_Sniazhko.API.csproj", "{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6D62FA22-D3B3-4955-875F-4C46B5662E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D62FA22-D3B3-4955-875F-4C46B5662E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D62FA22-D3B3-4955-875F-4C46B5662E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE70ACE7-0B6D-4375-B2E8-FAFC105D2D75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

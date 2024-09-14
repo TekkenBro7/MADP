@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {}
+    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
+    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
         "projectName": "Web_253505_Sniazhko.Domain",
-        "projectPath": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
+        "projectPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
         "packagesPath": "C:\\Users\\maksk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksk\\Desktop\\C#\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\obj\\",
+        "outputPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maksk\\AppData\\Roaming\\NuGet\\NuGet.Config",

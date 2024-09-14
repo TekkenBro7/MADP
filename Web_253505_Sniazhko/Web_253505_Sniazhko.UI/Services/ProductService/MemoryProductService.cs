@@ -37,7 +37,7 @@ namespace Web_253505_Sniazhko.UI.Services.ProductService
         public Task<ResponseData<ListModel<Dish>>> GetProductListAsync(string? categoryNormalizedName, int pageNo = 1)
         {
             if(pageNo < 1)
-                return Task.FromResult(ResponseData<ListModel<Dish>>.Error("No such page"));
+                return Task.FromResult(ResponseData<ListModel<Dish>>.Error("Нет такой страницы"));
             var data = _dishes
             .Where(d => categoryNormalizedName == null || d.Category.NormalizedName.Equals(categoryNormalizedName))
             .ToList();
