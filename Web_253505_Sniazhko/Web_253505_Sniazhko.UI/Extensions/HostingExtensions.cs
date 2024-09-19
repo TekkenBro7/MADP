@@ -1,6 +1,7 @@
 ﻿using Web_253505_Sniazhko.UI.ApiInteraction;
 using Web_253505_Sniazhko.UI.ApiInteraction.Services;
 using Web_253505_Sniazhko.UI.Services.CategoryService;
+using Web_253505_Sniazhko.UI.Services.FileService;
 using Web_253505_Sniazhko.UI.Services.ProductService;
 
 namespace Web_253505_Sniazhko.UI.Extensions
@@ -17,6 +18,7 @@ namespace Web_253505_Sniazhko.UI.Extensions
             builder.Services
                 .AddHttpClient<ICategoryService, ApiCategoryService>(opt =>
                 opt.BaseAddress = new Uri(uriData.ApiUri));
+            builder.Services.AddHttpClient<IFileService, ApiFileService>(opt => opt.BaseAddress = new Uri($"{uriData.ApiUri}Files"));
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj": {}
+    "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
+    "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
+        "projectUniqueName": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
         "projectName": "Web_253505_Sniazhko.Domain",
-        "projectPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
+        "projectPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
         "packagesPath": "C:\\Users\\maksk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\obj\\",
+        "outputPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maksk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj": {
+    "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj",
+        "projectUniqueName": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj",
         "projectName": "Web_253505_Sniazhko.UI",
-        "projectPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj",
+        "projectPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\Web_253505_Sniazhko.UI.csproj",
         "packagesPath": "C:\\Users\\maksk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\obj\\",
+        "outputPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maksk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
-                "projectPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj"
+              "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
+                "projectPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj"
               }
             }
           }
@@ -110,6 +110,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

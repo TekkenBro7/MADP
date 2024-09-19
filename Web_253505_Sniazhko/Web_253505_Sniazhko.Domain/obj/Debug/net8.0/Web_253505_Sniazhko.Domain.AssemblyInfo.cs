@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_253505_Sniazhko.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab3e74e77a3b1e7e958718b25694aa83566d1f89")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_253505_Sniazhko.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_253505_Sniazhko.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

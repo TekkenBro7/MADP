@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ug3QSUmJd/M=",
+  "dgSpecHash": "S2gen2jFpng=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj",
+  "projectFilePath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maksk\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\maksk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
