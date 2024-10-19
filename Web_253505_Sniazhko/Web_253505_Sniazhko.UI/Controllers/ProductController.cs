@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Web_253505_Sniazhko.Domain.Entities;
+using Web_253505_Sniazhko.UI.Extensions;
 using Web_253505_Sniazhko.UI.Services.CategoryService;
 using Web_253505_Sniazhko.UI.Services.ProductService;
 
@@ -26,7 +27,10 @@ namespace Web_253505_Sniazhko.UI.Controllers
             var categories = categoriesResponse.Data;
             ViewData["currentCategory"] = categories.FirstOrDefault(c => c.NormalizedName == category)?.Name ?? "Все";
             ViewData["categories"] = categories;
-
+            if (Request.IsAjaxRequest())
+            {
+                return PartialView("_DishListPartial", productResponse.Data);
+            }
             return View(productResponse.Data);
         }
     }

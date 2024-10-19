@@ -46,6 +46,13 @@
     </ul>
 </div>
 
+<br />
+<div id="dishList">
+    <partial name="_DishListPartial" />
+</div>
+
+@*
+
 <div class="row">
     @foreach (var item in Model.Items)
     {
@@ -67,6 +74,13 @@
 </div>
 
 <nav aria-label="Page navigation example">
+    <pager current-page="@Model.CurrentPage" total-pages="@Model.TotalPages" category="@category"></pager>
+</nav>
+
+*@
+
+ @*
+<nav aria-label="Page navigation example">
     <ul class="pagination justify-content-center">
         <li class="page-item @(Model.CurrentPage == 1 ? "disabled" : "")">
             <a class="page-link" asp-controller="Product" asp-action="Index" asp-route-pageNo="@prev" asp-route-category="@category" aria-label="Previous">
@@ -86,3 +100,4 @@
         </li>
     </ul>
 </nav>
+ *@

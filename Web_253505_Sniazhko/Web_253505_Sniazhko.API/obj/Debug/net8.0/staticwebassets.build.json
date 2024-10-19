@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uynOynr9Wa4XGF6NjeNjSqiWe1xe6NqN7ysHvj5ZbF4=",
+  "Hash": "uU1LoO8+BSMb3uneMZUtl68suw5oiMg+Qg39mlfvEYY=",
   "Source": "Web_253505_Sniazhko.API",
   "BasePath": "_content/Web_253505_Sniazhko.API",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\3liygvjd.unv.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\3ohou0l3.bs4.jpeg",
+      "SourceId": "Web_253505_Sniazhko.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\",
+      "BasePath": "_content/Web_253505_Sniazhko.API",
+      "RelativePath": "Images/3ohou0l3.bs4.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\3ohou0l3.bs4.jpeg"
     },
     {
       "Identity": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\wwwroot\\Images\\Брускетта.jpg",
