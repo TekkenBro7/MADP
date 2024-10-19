@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj": {}
+    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj": {}
   },
   "projects": {
-    "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj": {
+    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj",
+        "projectUniqueName": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj",
         "projectName": "Web_253505_Sniazhko.API",
-        "projectPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj",
+        "projectPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\Web_253505_Sniazhko.API.csproj",
         "packagesPath": "C:\\Users\\maksk\\.nuget\\packages\\",
-        "outputPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\obj\\",
+        "outputPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maksk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
-                "projectPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj"
+              "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
+                "projectPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj"
               }
             }
           }
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -96,14 +100,14 @@
         }
       }
     },
-    "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
+    "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
         "projectName": "Web_253505_Sniazhko.Domain",
-        "projectPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
+        "projectPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\Web_253505_Sniazhko.Domain.csproj",
         "packagesPath": "C:\\Users\\maksk\\.nuget\\packages\\",
-        "outputPath": "C:\\MADP\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\obj\\",
+        "outputPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maksk\\AppData\\Roaming\\NuGet\\NuGet.Config",

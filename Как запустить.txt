@@ -1,0 +1,6 @@
+чтобы запустить keycloak, запустите cmd, на путь к папке keycloak, например:
+C:\Users\maksk\Desktop\keycloak-26.0.1
+Перейдите в папку bin: cd /bin
+Выполните команду kc.bat start-div
+
+Также нужна бд postgres и позданная Бд Keycloak и пользователь keycloak

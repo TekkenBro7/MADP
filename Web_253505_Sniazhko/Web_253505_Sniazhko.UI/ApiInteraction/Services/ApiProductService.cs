@@ -2,6 +2,7 @@
 using System.Text.Json;
 using Web_253505_Sniazhko.Domain.Entities;
 using Web_253505_Sniazhko.Domain.Models;
+using Web_253505_Sniazhko.UI.Services.Authentication;
 using Web_253505_Sniazhko.UI.Services.FileService;
 using Web_253505_Sniazhko.UI.Services.ProductService;
 
@@ -14,13 +15,15 @@ namespace Web_253505_Sniazhko.UI.ApiInteraction.Services
         private readonly IFileService _fileService;
         private readonly JsonSerializerOptions _serializerOptions;
         private readonly ILogger<ApiProductService> _logger;
-        public ApiProductService(HttpClient httpClient, IConfiguration configuration, ILogger<ApiProductService> logger, IFileService fileService)
+        ITokenAccessor _tokenAccessor;
+        public ApiProductService(HttpClient httpClient, IConfiguration configuration, ILogger<ApiProductService> logger, IFileService fileService, ITokenAccessor tokenAccessor)
         {
             _httpClient = httpClient;
             _pageSize = configuration.GetSection("ItemsPerPage").Value ?? "3";
             _serializerOptions = new JsonSerializerOptions { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
             _logger = logger;
             _fileService = fileService;
+            _tokenAccessor = tokenAccessor;
         }
         public async Task<ResponseData<ListModel<Dish>>> GetProductListAsync(string? categoryNormalizedName, int pageNo = 1)
         {
@@ -41,6 +44,7 @@ namespace Web_253505_Sniazhko.UI.ApiInteraction.Services
                 else
                     urlString.Append($"?pageSize={_pageSize}");
             }
+            await _tokenAccessor.SetAuthorizationHeaderAsync(_httpClient);
             var response = await _httpClient.GetAsync(new Uri(urlString.ToString()));
             if (response.IsSuccessStatusCode)
             {
@@ -69,6 +73,7 @@ namespace Web_253505_Sniazhko.UI.ApiInteraction.Services
                 }
             }
             var uri = new Uri(_httpClient.BaseAddress.AbsoluteUri + "Dishes");
+            await _tokenAccessor.SetAuthorizationHeaderAsync(_httpClient);
             var response = await _httpClient.PostAsJsonAsync(uri, product);
             if (response.IsSuccessStatusCode)
             {
@@ -81,6 +86,7 @@ namespace Web_253505_Sniazhko.UI.ApiInteraction.Services
         public async Task<ResponseData<Dish>> GetProductByIdAsync(int id)
         {
             var uri = new Uri(_httpClient.BaseAddress.AbsoluteUri + $"dishes/{id}");
+            await _tokenAccessor.SetAuthorizationHeaderAsync(_httpClient);
             var response = await _httpClient.GetAsync(uri);
             if (response.IsSuccessStatusCode)
             {
@@ -92,6 +98,7 @@ namespace Web_253505_Sniazhko.UI.ApiInteraction.Services
         }
         public async Task UpdateProductAsync(int id, Dish product, IFormFile? formFile)
         {
+            await _tokenAccessor.SetAuthorizationHeaderAsync(_httpClient);
             if (formFile != null)
             {
                 var imageUrl = await _fileService.SaveFileAsync(formFile);
@@ -108,7 +115,6 @@ namespace Web_253505_Sniazhko.UI.ApiInteraction.Services
             var uri = new Uri(_httpClient.BaseAddress.AbsoluteUri + $"dishes/{id}");
             // Отправка запроса на обновление объекта
             var response = await _httpClient.PutAsJsonAsync(uri, product, _serializerOptions);
-            var content = await response.Content.ReadAsStringAsync();
             if (!response.IsSuccessStatusCode)
             {
                 _logger.LogError($"-----> Объект не обновлен. Error: {response.StatusCode}");
@@ -119,6 +125,7 @@ namespace Web_253505_Sniazhko.UI.ApiInteraction.Services
         {
             var product = await GetProductByIdAsync(id);
             var uri = new Uri($"{_httpClient.BaseAddress.AbsoluteUri}dishes/{id}");
+            await _tokenAccessor.SetAuthorizationHeaderAsync(_httpClient);
             var response = await _httpClient.DeleteAsync(uri);
 
             Dish data = product.Data;

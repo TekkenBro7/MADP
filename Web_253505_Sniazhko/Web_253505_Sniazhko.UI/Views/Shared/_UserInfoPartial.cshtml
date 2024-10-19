@@ -1,27 +1,37 @@
-﻿@await Component.InvokeAsync("Cart")
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
 
-<div class="dropdown ms-4 nav-color">
-    <button class="btn btn-secondary dropdown-toggle"
-            type="button" id="dropdownMenuButton"
-            data-bs-toggle="dropdown"
-            aria-expanded="false">
-        User@gmail.com
-        <img src="images/default_picture.png" width="30"
-             alt="User" class="rounded nav-color" />
-    </button>
-    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        <li>
-            <span class="dropdown-item-text">
-                <img src="images/default_picture.png"
-                     width="50" alt="User" class="rounded" />
-                user@gmail.com
-            </span>
-        </li>
-        <li><hr class="dropdown-divider"></li>
-        <li>
-            <form id="logoutForm" asp-area="" asp-controller="Account" asp-action="LogOut" class="form-inline">
-                <button id="logout" type="submit" class="nav-link btn btn-link text-dark">Logout</button>
-            </form>
-        </li>
-    </ul>
+@{
+    var name = User.Claims.FirstOrDefault(c => c.Type.Equals("preferred_username", StringComparison.OrdinalIgnoreCase))?.Value;
+    var avatar = User.Claims.FirstOrDefault(c => c.Type.Equals("avatar", StringComparison.OrdinalIgnoreCase))?.Value;
+
+}
+<div class="d-flex align-items-center">
+    @if (User.Identity.IsAuthenticated)
+    {
+        @await Component.InvokeAsync("Cart")
+        <div class="dropdown ms-4 nav-color">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                @name
+                <img src="@avatar" width="20" class="rounded nav-color" />
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li>
+                    <div class="dropdown-item" href="#">
+                        <img src="@avatar" width="30" />
+                        @name
+                    </div>
+                </li>
+                <li><hr class="dropdown-divider" /></li>
+                <li><a asp-controller="Account" asp-action="Logout" class="dropdown-item">Logout</a></li>
+            </ul>
+        </div>
+    }
+    else
+    {
+        <a asp-controller="Account" asp-action="Login" class="me-3">Login</a>
+        <a asp-controller="Account" asp-action="Register">Register</a>
+    }
 </div>
+

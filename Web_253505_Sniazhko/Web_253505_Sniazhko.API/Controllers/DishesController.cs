@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -23,6 +24,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         }
         // GET: api/Dishes/category/{category}?pageNo=1&pageSize=3
         [HttpGet("category/{category}")]
+        [AllowAnonymous]
         public async Task<ActionResult<ResponseData<List<Dish>>>> GetDishesByCategory(string category, int pageNo = 1, int pageSize = 3)
         {
             return Ok(await _productService.GetProductListAsync(
@@ -32,6 +34,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         }
         // GET: api/Dishes
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<ResponseData<List<Dish>>>> GetDishes(string? category, int pageNo = 1, int pageSize = 3)
         {
             return Ok(await _productService.GetProductListAsync(
@@ -41,6 +44,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         }
         //GET: api/Dishes/5
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public async Task<ActionResult<ResponseData<Dish>>> GetDish(int id)
         {
             var result = await _productService.GetProductByIdAsync(id);
@@ -53,6 +57,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         // PUT: api/Dishes/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
+        [Authorize(Policy = "admin")]
         public async Task<IActionResult> PutDish(int id, Dish dish)
         {
             if (id != dish.Id)
@@ -66,6 +71,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         // POST: api/Dishes
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
+        [Authorize(Policy = "admin")]
         public async Task<ActionResult<ResponseData<Dish>>> PostDish(Dish dish)
         {
             var result = await _productService.CreateProductAsync(dish);
@@ -73,6 +79,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         }
         // DELETE: api/Dishes/5
         [HttpDelete("{id}")]
+        [Authorize(Policy = "admin")]
         public async Task<IActionResult> DeleteDish(int id)
         {
             await _productService.DeleteProductAsync(id);
@@ -80,6 +87,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         }
         // POST: api/Products/5/SaveImage
         [HttpPost("{id}/SaveImage")]
+        [Authorize(Policy = "admin")]
         public async Task<ActionResult<ResponseData<string>>> SaveImage(int id, IFormFile formFile)
         {
             var result = await _productService.SaveImageAsync(id, formFile);

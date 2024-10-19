@@ -1,12 +1,16 @@
 ﻿
+using Web_253505_Sniazhko.UI.Services.Authentication;
+
 namespace Web_253505_Sniazhko.UI.Services.FileService
 {
     public class ApiFileService : IFileService
     {
         private readonly HttpClient _httpClient;
-        public ApiFileService(HttpClient httpClient)
+        private readonly ITokenAccessor _tokenAccessor;
+        public ApiFileService(HttpClient httpClient, ITokenAccessor tokenAccessor)
         {
             _httpClient = httpClient;
+            _tokenAccessor = tokenAccessor;
         }
         public async Task DeleteFileAsync(string file)
         {
@@ -15,6 +19,7 @@ namespace Web_253505_Sniazhko.UI.Services.FileService
             Uri uri = new Uri(file);
             string fileName = Path.GetFileName(uri.LocalPath);
             var request = new HttpRequestMessage(HttpMethod.Delete, _httpClient.BaseAddress + "/" + fileName);
+            await _tokenAccessor.SetAuthorizationHeaderAsync(_httpClient);
             var response = await _httpClient.SendAsync(request);
             if (!response.IsSuccessStatusCode)
             {
@@ -36,6 +41,7 @@ namespace Web_253505_Sniazhko.UI.Services.FileService
             // Установить контент запроса
             request.Content = content;
             // Отправить запрос к API
+            await _tokenAccessor.SetAuthorizationHeaderAsync(_httpClient);
             var response = await _httpClient.SendAsync(request);
             if (response.IsSuccessStatusCode)
             {
