@@ -20,12 +20,12 @@ namespace Web_253505_Sniazhko.UI.Controllers
         [HttpGet("{category?}")]
         public async Task<IActionResult> Index(string? category, int pageNo = 1)
         {
-            var productResponse = await _productService.GetProductListAsync(category, pageNo);
-            if (!productResponse.Successful)
-                return NotFound(productResponse.ErrorMessage);
             var categoriesResponse = await _categoryService.GetCategoryListAsync();
             if (!categoriesResponse.Successful)
                 return NotFound(categoriesResponse.ErrorMessage);
+            var productResponse = await _productService.GetProductListAsync(category, pageNo);
+            if (!productResponse.Successful)
+                return NotFound(productResponse.ErrorMessage);
             var categories = categoriesResponse.Data;
             ViewData["currentCategory"] = categories.FirstOrDefault(c => c.NormalizedName == category)?.Name ?? "Все";
             ViewData["categories"] = categories;
