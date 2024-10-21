@@ -16,6 +16,7 @@ var uriData = builder.Configuration.GetSection("UriData").Get<UriData>();
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorComponents();
 builder.RegisterCustomServices(uriData);
 
 
@@ -40,7 +41,7 @@ app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 
-
+app.UseSession();
 
 
 app.MapControllerRoute(

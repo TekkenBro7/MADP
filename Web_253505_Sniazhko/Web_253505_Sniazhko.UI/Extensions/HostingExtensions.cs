@@ -1,14 +1,17 @@
 ﻿using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.IdentityModel.Protocols.OpenIdConnect;
+using Web_253505_Sniazhko.Domain.Entities;
 using Web_253505_Sniazhko.UI.ApiInteraction;
 using Web_253505_Sniazhko.UI.ApiInteraction.Services;
+using Web_253505_Sniazhko.UI.Controllers;
 using Web_253505_Sniazhko.UI.HelperClasses;
 using Web_253505_Sniazhko.UI.Services.Authentication;
 using Web_253505_Sniazhko.UI.Services.Authorization;
 using Web_253505_Sniazhko.UI.Services.CategoryService;
 using Web_253505_Sniazhko.UI.Services.FileService;
 using Web_253505_Sniazhko.UI.Services.ProductService;
+using Web_253505_Sniazhko.UI.ViewComponents;
 
 namespace Web_253505_Sniazhko.UI.Extensions
 {
@@ -46,11 +49,16 @@ namespace Web_253505_Sniazhko.UI.Extensions
                 options.RequireHttpsMetadata = false; // позволяет обращаться к локальному Keycloak по http
                 options.MetadataAddress = $"{keycloakData.Host}/realms/{keycloakData.Realm}/.well-known/openid-configuration";
             });
+            builder.Services.AddScoped<CartViewComponent>();
 
             builder.Services.AddHttpClient<ITokenAccessor, KeycloakTokenAccessor>();
             builder.Services.AddScoped<IAuthService, KeycloakAuthService>();
+            
+            builder.Services.AddDistributedMemoryCache();       
+            builder.Services.AddSession();
 
 
+            builder.Services.AddScoped<CartContainer, SessionCart>();
         }
     }
 }

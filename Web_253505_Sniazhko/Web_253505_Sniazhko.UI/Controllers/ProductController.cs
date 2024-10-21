@@ -6,6 +6,7 @@ using Web_253505_Sniazhko.UI.Services.ProductService;
 
 namespace Web_253505_Sniazhko.UI.Controllers
 {
+    [Route("menu")]
     public class ProductController : Controller
     {
         private readonly IProductService _productService;
@@ -16,6 +17,7 @@ namespace Web_253505_Sniazhko.UI.Controllers
             _productService = productService;
             _categoryService = categoryService;
         }
+        [HttpGet("{category?}")]
         public async Task<IActionResult> Index(string? category, int pageNo = 1)
         {
             var productResponse = await _productService.GetProductListAsync(category, pageNo);
