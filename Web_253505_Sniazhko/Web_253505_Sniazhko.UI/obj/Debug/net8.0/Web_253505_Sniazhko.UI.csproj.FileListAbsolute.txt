@@ -274,3 +274,12 @@ C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8
 C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\bin\Debug\net8.0\Serilog.Sinks.File.dll
