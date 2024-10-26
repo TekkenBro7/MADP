@@ -1,0 +1,61 @@
+﻿@inject IDataService DataService
+@implements IDisposable
+
+
+@if (DataService.Dishes == null || !DataService.Success)
+{
+    <p><em>Loading...</em></p>
+    @if (!string.IsNullOrEmpty(DataService.ErrorMessage))
+    {
+        <p><strong>Error:</strong> @DataService.ErrorMessage</p>
+    }
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Действие</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dish in DataService.Dishes)
+            {
+                <tr>
+                    <td>@dish.Name</td>
+                    <td>@dish.Description</td>
+                    <td>
+                        <button class="btn btn-primary" @onclick="() => SelectDish(dish.Id)">
+                            <i class="bi bi-search"></i> Подробнее
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    [Parameter]
+    public EventCallback<int> DishSelected { get; set; }
+
+    private async Task SelectDish(int id)
+    {
+        if (DishSelected.HasDelegate)
+        {
+            await DishSelected.InvokeAsync(id);
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        DataService.DataLoaded += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        DataService.DataLoaded -= StateHasChanged;
+    }
+}

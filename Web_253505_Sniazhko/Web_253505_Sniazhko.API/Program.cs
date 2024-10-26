@@ -39,6 +39,18 @@ builder.Services.AddAuthorization(opt =>
     opt.AddPolicy("admin", p => p.RequireRole("POWER-USER"));
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
+
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
 await DbInitializer.SeedData(app);
@@ -50,12 +62,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.UseCors("AllowAll");
 
 app.MapControllers();
 

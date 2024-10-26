@@ -1,0 +1,24 @@
+﻿@page "/dish"
+@attribute [Authorize]
+@inject IDataService DataService
+
+<PageTitle>Dishes</PageTitle>
+
+<CategoryLayout />
+<DishLayout DishSelected="OnDishSelected" />
+<Pager />
+<DishDetails SelectedDish="SelectedDish" />
+
+@code {
+    private Web_253505_Sniazhko.Domain.Entities.Dish? SelectedDish { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        await DataService.GetProductListAsync();
+    }
+
+    private void OnDishSelected(int id)
+    {
+        SelectedDish = DataService.Dishes.FirstOrDefault(d => d.Id == id);
+    }
+}

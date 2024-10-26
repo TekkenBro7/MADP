@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9BF4929-CE73-460B-870F-6C4EC28928E1}|Web_253505_Sniazhko.BlazorWasm\\Web_253505_Sniazhko.BlazorWasm.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazorwasm\\pages\\dish.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BF4929-CE73-460B-870F-6C4EC28928E1}|Web_253505_Sniazhko.BlazorWasm\\Web_253505_Sniazhko.BlazorWasm.csproj|solutionrelative:web_253505_sniazhko.blazorwasm\\pages\\dish.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9BF4929-CE73-460B-870F-6C4EC28928E1}|Web_253505_Sniazhko.BlazorWasm\\Web_253505_Sniazhko.BlazorWasm.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazorwasm\\layout\\dishlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BF4929-CE73-460B-870F-6C4EC28928E1}|Web_253505_Sniazhko.BlazorWasm\\Web_253505_Sniazhko.BlazorWasm.csproj|solutionrelative:web_253505_sniazhko.blazorwasm\\layout\\dishlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazor.ssr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E37ABC10-F64D-4275-9AD0-AAF09EABD941}|Web_253505_Sniazhko.Blazor.SSR\\Web_253505_Sniazhko.Blazor.SSR.csproj|solutionrelative:web_253505_sniazhko.blazor.ssr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E9BF4929-CE73-460B-870F-6C4EC28928E1}|Web_253505_Sniazhko.BlazorWasm\\Web_253505_Sniazhko.BlazorWasm.csproj|c:\\users\\maksk\\desktop\\web_253505_sniazhko\\web_253505_sniazhko.blazorwasm\\layout\\dishdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9BF4929-CE73-460B-870F-6C4EC28928E1}|Web_253505_Sniazhko.BlazorWasm\\Web_253505_Sniazhko.BlazorWasm.csproj|solutionrelative:web_253505_sniazhko.blazorwasm\\layout\\dishdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\App.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\App.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DishDetails.razor",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.BlazorWasm\\Layout\\DishDetails.razor",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.BlazorWasm\\Layout\\DishDetails.razor",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.BlazorWasm\\Layout\\DishDetails.razor",
+              "RelativeToolTip": "Web_253505_Sniazhko.BlazorWasm\\Layout\\DishDetails.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:48:42.26Z",
+              "WhenOpened": "2024-10-24T17:02:37.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dish.razor",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.BlazorWasm\\Pages\\Dish.razor",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.BlazorWasm\\Pages\\Dish.razor",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.BlazorWasm\\Pages\\Dish.razor",
+              "RelativeToolTip": "Web_253505_Sniazhko.BlazorWasm\\Pages\\Dish.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T17:02:25.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\_Imports.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Title": "DishLayout.razor",
+              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.BlazorWasm\\Layout\\DishLayout.razor",
+              "RelativeDocumentMoniker": "Web_253505_Sniazhko.BlazorWasm\\Layout\\DishLayout.razor",
+              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.BlazorWasm\\Layout\\DishLayout.razor",
+              "RelativeToolTip": "Web_253505_Sniazhko.BlazorWasm\\Layout\\DishLayout.razor",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:38:31.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Error.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:38:04.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Weather.razor",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:37:58.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:37:54.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:37:07.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:37:01.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:36:41.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\Components\\Routes.razor",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\Components\\Routes.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:36:07.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\appsettings.json",
-              "RelativeDocumentMoniker": "Web_253505_Sniazhko.Blazor.SSR\\appsettings.json",
-              "ToolTip": "C:\\Users\\maksk\\Desktop\\Web_253505_Sniazhko\\Web_253505_Sniazhko.Blazor.SSR\\appsettings.json",
-              "RelativeToolTip": "Web_253505_Sniazhko.Blazor.SSR\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-21T14:36:02.196Z",
+              "WhenOpened": "2024-10-24T17:02:39.791Z",
               "EditorCaption": ""
             }
           ]

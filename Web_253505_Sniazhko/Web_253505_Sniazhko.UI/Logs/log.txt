@@ -57,3 +57,1031 @@
 2024-10-21 11:17:15.868 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
 2024-10-21 11:17:15.870 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 1.9436ms
 2024-10-21 11:17:15.877 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.8718ms
+2024-10-22 17:57:56.104 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-22 17:57:56.296 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-22 17:57:56.297 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-22 17:57:56.315 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-22 17:57:56.316 +03:00 [INF] Hosting environment: Development
+2024-10-22 17:57:56.316 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-22 17:57:56.984 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-22 17:57:57.211 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 17:57:57.240 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-22 17:57:57.248 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-22 17:57:57.431 +03:00 [INF] Executed ViewResult - view Index executed in 181.3636ms.
+2024-10-22 17:57:57.442 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 198.2947ms
+2024-10-22 17:57:57.446 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 17:57:57.460 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 482.4274ms
+2024-10-22 17:57:57.513 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-22 17:57:57.517 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=3CR98hvWZ6-QBz3qLrKeXRXACuEeHHEKUZB4Oas_pKY - null null
+2024-10-22 17:57:57.517 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-22 17:57:57.537 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 24.5198ms
+2024-10-22 17:57:57.540 +03:00 [INF] The file /js/site.js was not modified
+2024-10-22 17:57:57.549 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=3CR98hvWZ6-QBz3qLrKeXRXACuEeHHEKUZB4Oas_pKY - 304 null text/javascript 36.2916ms
+2024-10-22 17:57:57.603 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 89.7242ms
+2024-10-22 18:56:46.678 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-22 18:56:46.879 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-22 18:56:46.880 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-22 18:56:46.917 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-22 18:56:46.919 +03:00 [INF] Hosting environment: Development
+2024-10-22 18:56:46.920 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-22 18:56:47.513 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-22 18:56:47.659 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 18:56:47.678 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-22 18:56:47.685 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-22 18:56:47.854 +03:00 [INF] Executed ViewResult - view Index executed in 171.0674ms.
+2024-10-22 18:56:47.859 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 179.5511ms
+2024-10-22 18:56:47.861 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 18:56:47.867 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 354.4289ms
+2024-10-22 18:56:47.881 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-22 18:56:47.887 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 6.2221ms
+2024-10-22 18:56:47.903 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-22 18:56:47.939 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.7711ms
+2024-10-22 19:06:24.713 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-22 19:06:24.895 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-22 19:06:24.896 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-22 19:06:24.916 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-22 19:06:24.917 +03:00 [INF] Hosting environment: Development
+2024-10-22 19:06:24.918 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-22 19:06:25.633 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-22 19:06:25.779 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:06:25.798 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-22 19:06:25.807 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-22 19:06:25.949 +03:00 [INF] Executed ViewResult - view Index executed in 142.9811ms.
+2024-10-22 19:06:25.954 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 153.6541ms
+2024-10-22 19:06:25.955 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:06:25.962 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 331.3248ms
+2024-10-22 19:06:26.003 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-22 19:06:26.007 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-22 19:06:26.011 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 7.5604ms
+2024-10-22 19:06:26.037 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.3538ms
+2024-10-22 19:09:03.203 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-22 19:09:03.274 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-22 19:09:03.276 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-22 19:09:03.289 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-22 19:09:03.290 +03:00 [INF] Hosting environment: Development
+2024-10-22 19:09:03.290 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-22 19:09:03.749 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-22 19:09:03.807 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:09:03.818 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-22 19:09:03.824 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-22 19:09:03.918 +03:00 [INF] Executed ViewResult - view Index executed in 94.9923ms.
+2024-10-22 19:09:03.922 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 102.2979ms
+2024-10-22 19:09:03.923 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:09:03.928 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 179.8161ms
+2024-10-22 19:09:03.939 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-22 19:09:03.941 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 2.6509ms
+2024-10-22 19:09:03.945 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-22 19:09:03.960 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.1814ms
+2024-10-22 19:12:29.946 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-22 19:12:30.077 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-22 19:12:30.078 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-22 19:12:30.096 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-22 19:12:30.097 +03:00 [INF] Hosting environment: Development
+2024-10-22 19:12:30.097 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-22 19:12:30.653 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-22 19:12:30.777 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:12:30.795 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-22 19:12:30.804 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-22 19:12:30.922 +03:00 [INF] Executed ViewResult - view Index executed in 118.5729ms.
+2024-10-22 19:12:30.929 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 131.3723ms
+2024-10-22 19:12:30.931 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:12:30.936 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 285.621ms
+2024-10-22 19:12:30.947 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-22 19:12:30.953 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 5.8144ms
+2024-10-22 19:12:30.964 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-22 19:12:31.001 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 37.8294ms
+2024-10-22 19:18:53.039 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-22 19:18:53.261 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-22 19:18:53.263 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-22 19:18:53.288 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-22 19:18:53.289 +03:00 [INF] Hosting environment: Development
+2024-10-22 19:18:53.290 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-22 19:18:53.935 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-22 19:18:54.147 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:18:54.175 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-22 19:18:54.189 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-22 19:18:54.408 +03:00 [INF] Executed ViewResult - view Index executed in 221.3622ms.
+2024-10-22 19:18:54.416 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 238.1003ms
+2024-10-22 19:18:54.418 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-22 19:18:54.425 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 491.6836ms
+2024-10-22 19:18:54.437 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-22 19:18:54.445 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 8.4741ms
+2024-10-22 19:18:54.456 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-22 19:18:54.519 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 62.0732ms
+2024-10-24 14:17:56.495 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-24 14:17:56.798 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-24 14:17:56.800 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-24 14:17:56.836 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 14:17:56.837 +03:00 [INF] Hosting environment: Development
+2024-10-24 14:17:56.837 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-24 14:17:58.735 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:17:59.166 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:17:59.228 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:17:59.259 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:17:59.685 +03:00 [INF] Executed ViewResult - view Index executed in 434.9351ms.
+2024-10-24 14:17:59.700 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 463.7756ms
+2024-10-24 14:17:59.704 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:17:59.715 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 983.5527ms
+2024-10-24 14:18:01.093 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/font-awesome/css/all.min.css - null null
+2024-10-24 14:18:01.093 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - null null
+2024-10-24 14:18:01.093 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Web_253505_Sniazhko.UI.styles.css?v=8wHgV-f52zCmi0_NWUhUCpn_RmaKjnMcrcaUQ3QHbWM - null null
+2024-10-24 14:18:01.094 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - null null
+2024-10-24 14:18:01.096 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:01.137 +03:00 [INF] The file /lib/font-awesome/css/all.min.css was not modified
+2024-10-24 14:18:01.138 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2024-10-24 14:18:01.152 +03:00 [INF] Sending file. Request path: '/Web_253505_Sniazhko.UI.styles.css'. Physical path: 'C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\obj\Debug\net8.0\scopedcss\bundle\Web_253505_Sniazhko.UI.styles.css'
+2024-10-24 14:18:01.150 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/font-awesome/css/all.min.css - 304 null text/css 57.6365ms
+2024-10-24 14:18:01.153 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/css/bootstrap.min.css - 304 null text/css 60.2696ms
+2024-10-24 14:18:01.146 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2024-10-24 14:18:01.093 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/css/site.css?v=JoPpvJ6jynZs_lqwshSouCMJB-imV-dyGAx6JgxsRr4 - null null
+2024-10-24 14:18:01.102 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=3CR98hvWZ6-QBz3qLrKeXRXACuEeHHEKUZB4Oas_pKY - null null
+2024-10-24 14:18:01.108 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - null null
+2024-10-24 14:18:01.118 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:01.164 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 68.4576ms
+2024-10-24 14:18:01.164 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Web_253505_Sniazhko.UI.styles.css?v=8wHgV-f52zCmi0_NWUhUCpn_RmaKjnMcrcaUQ3QHbWM - 200 99 text/css 71.0515ms
+2024-10-24 14:18:01.181 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/jquery/dist/jquery.min.js - 304 null text/javascript 86.4258ms
+2024-10-24 14:18:01.187 +03:00 [INF] The file /css/site.css was not modified
+2024-10-24 14:18:01.192 +03:00 [INF] The file /js/site.js was not modified
+2024-10-24 14:18:01.196 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2024-10-24 14:18:01.234 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/css/site.css?v=JoPpvJ6jynZs_lqwshSouCMJB-imV-dyGAx6JgxsRr4 - 304 null text/css 140.4186ms
+2024-10-24 14:18:01.236 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=3CR98hvWZ6-QBz3qLrKeXRXACuEeHHEKUZB4Oas_pKY - 304 null text/javascript 134.261ms
+2024-10-24 14:18:01.238 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/bootstrap/dist/js/bootstrap.bundle.min.js - 304 null text/javascript 130.7018ms
+2024-10-24 14:18:01.325 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/font-awesome/webfonts/fa-brands-400.woff2 - null null
+2024-10-24 14:18:01.325 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/lib/font-awesome/webfonts/fa-solid-900.woff2 - null null
+2024-10-24 14:18:01.326 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 207.502ms
+2024-10-24 14:18:01.341 +03:00 [INF] The file /lib/font-awesome/webfonts/fa-brands-400.woff2 was not modified
+2024-10-24 14:18:01.345 +03:00 [INF] The file /lib/font-awesome/webfonts/fa-solid-900.woff2 was not modified
+2024-10-24 14:18:01.353 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/font-awesome/webfonts/fa-brands-400.woff2 - 304 null font/woff2 28.2823ms
+2024-10-24 14:18:01.356 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/lib/font-awesome/webfonts/fa-solid-900.woff2 - 304 null font/woff2 31.1647ms
+2024-10-24 14:18:08.917 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/menu - null null
+2024-10-24 14:18:08.927 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:08.938 +03:00 [INF] Route matched with {action = "Index", controller = "Product", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, Int32) on controller Web_253505_Sniazhko.UI.Controllers.ProductController (Web_253505_Sniazhko.UI).
+2024-10-24 14:18:08.963 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:08.966 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:09.237 +03:00 [INF] Received HTTP response headers after 268.2911ms - 200
+2024-10-24 14:18:09.241 +03:00 [INF] End processing HTTP request after 278.5696ms - 200
+2024-10-24 14:18:09.251 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:09.252 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:09.815 +03:00 [INF] Received HTTP response headers after 561.4593ms - 200
+2024-10-24 14:18:09.817 +03:00 [INF] End processing HTTP request after 566.0897ms - 200
+2024-10-24 14:18:09.822 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:18:09.839 +03:00 [INF] Executed ViewResult - view Index executed in 16.9649ms.
+2024-10-24 14:18:09.841 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI) in 899.8371ms
+2024-10-24 14:18:09.842 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:09.844 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/menu - 200 null text/html; charset=utf-8 927.1352ms
+2024-10-24 14:18:09.868 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:09.868 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:09.873 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 5.1749ms
+2024-10-24 14:18:09.887 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.816ms
+2024-10-24 14:18:15.201 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin - null null
+2024-10-24 14:18:15.211 +03:00 [INF] Executing endpoint '/Index'
+2024-10-24 14:18:15.217 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-10-24 14:18:15.227 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:18:15.230 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:15.231 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:15.247 +03:00 [INF] Received HTTP response headers after 15.1325ms - 200
+2024-10-24 14:18:15.248 +03:00 [INF] End processing HTTP request after 17.979ms - 200
+2024-10-24 14:18:15.250 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-10-24 14:18:15.252 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-10-24 14:18:15.253 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:18:15.273 +03:00 [INF] Executed page /Index in 53.6766ms
+2024-10-24 14:18:15.275 +03:00 [INF] Executed endpoint '/Index'
+2024-10-24 14:18:15.277 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin - 200 null text/html; charset=utf-8 75.7515ms
+2024-10-24 14:18:15.287 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:15.288 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:15.290 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.2865ms
+2024-10-24 14:18:15.303 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.9084ms
+2024-10-24 14:18:17.923 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - null null
+2024-10-24 14:18:17.930 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:18:17.936 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:18:17.942 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:18:17.945 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:17.946 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:18.009 +03:00 [INF] Received HTTP response headers after 62.5241ms - 200
+2024-10-24 14:18:18.010 +03:00 [INF] End processing HTTP request after 65.4087ms - 200
+2024-10-24 14:18:18.013 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:18.014 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:18.019 +03:00 [INF] Received HTTP response headers after 3.9617ms - 200
+2024-10-24 14:18:18.020 +03:00 [INF] End processing HTTP request after 6.8944ms - 200
+2024-10-24 14:18:18.023 +03:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:18:18.050 +03:00 [INF] Executed page /Edit in 113.3659ms
+2024-10-24 14:18:18.052 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:18:18.053 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - 200 null text/html; charset=utf-8 130.4983ms
+2024-10-24 14:18:18.069 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:18.074 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.7972ms
+2024-10-24 14:18:18.076 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:18.089 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.88ms
+2024-10-24 14:18:19.991 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - multipart/form-data; boundary=----WebKitFormBoundaryGJJDLAigwbgCMQtA 1225
+2024-10-24 14:18:19.998 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:18:20.000 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:18:20.014 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync - ModelState is "Valid"
+2024-10-24 14:18:20.018 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:20.021 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:20.028 +03:00 [INF] Received HTTP response headers after 5.6625ms - 200
+2024-10-24 14:18:20.029 +03:00 [INF] End processing HTTP request after 10.3355ms - 200
+2024-10-24 14:18:20.031 +03:00 [INF] Start processing HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:18:20.033 +03:00 [INF] Sending HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:18:20.046 +03:00 [INF] Received HTTP response headers after 11.8948ms - 401
+2024-10-24 14:18:20.047 +03:00 [INF] End processing HTTP request after 15.6886ms - 401
+2024-10-24 14:18:20.051 +03:00 [ERR] -----> Объект не обновлен. Error: Unauthorized
+2024-10-24 14:18:20.140 +03:00 [INF] Executed page /Edit in 139.2874ms
+2024-10-24 14:18:20.142 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:18:20.210 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Объект не обновлен. Error: Unauthorized
+   at Web_253505_Sniazhko.UI.ApiInteraction.Services.ApiProductService.UpdateProductAsync(Int32 id, Dish product, IFormFile formFile) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\ApiInteraction\Services\ApiProductService.cs:line 121
+   at Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync(Int32 id) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\Areas\Admin\Pages\Edit.cshtml.cs:line 91
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Convert[T](Object taskAsObject)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Web_253505_Sniazhko.UI.HelperClasses.LoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\HelperClasses\LoggingMiddleware.cs:line 14
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-10-24 14:18:20.286 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - 500 null text/html; charset=utf-8 295.4554ms
+2024-10-24 14:18:20.307 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:20.308 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:20.318 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 9.6714ms
+2024-10-24 14:18:20.321 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.75ms
+2024-10-24 14:18:25.259 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - null null
+2024-10-24 14:18:25.265 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:18:25.267 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:18:25.268 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:18:25.269 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:25.270 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:25.276 +03:00 [INF] Received HTTP response headers after 4.7397ms - 200
+2024-10-24 14:18:25.277 +03:00 [INF] End processing HTTP request after 7.2722ms - 200
+2024-10-24 14:18:25.278 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:25.278 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:25.284 +03:00 [INF] Received HTTP response headers after 4.7225ms - 200
+2024-10-24 14:18:25.285 +03:00 [INF] End processing HTTP request after 7.1567ms - 200
+2024-10-24 14:18:25.286 +03:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:18:25.289 +03:00 [INF] Executed page /Edit in 21.1475ms
+2024-10-24 14:18:25.291 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:18:25.292 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - 200 null text/html; charset=utf-8 32.9082ms
+2024-10-24 14:18:25.306 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:25.309 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.2087ms
+2024-10-24 14:18:27.300 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Logout - null null
+2024-10-24 14:18:27.306 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:27.311 +03:00 [INF] Route matched with {action = "Logout", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Logout() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:18:27.318 +03:00 [INF] AuthenticationScheme: Cookies signed out.
+2024-10-24 14:18:27.391 +03:00 [INF] AuthenticationScheme: OpenIdConnect signed out.
+2024-10-24 14:18:27.394 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI) in 80.7379ms
+2024-10-24 14:18:27.396 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:27.397 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Logout - 302 0 null 96.1584ms
+2024-10-24 14:18:27.877 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsVxp_J3XEIq02-eGLH4aYi0DgbfoJaSURKtQ9tDOLMMPCVAVqetGQb0F8CJrohiIKTpNzzZSmnXNhyIF5XM17oZ-UbJ7p_BwUFe5GdNLg_ArUuRdXqqwxctEhd_vNEXc-8 - null null
+2024-10-24 14:18:27.890 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsVxp_J3XEIq02-eGLH4aYi0DgbfoJaSURKtQ9tDOLMMPCVAVqetGQb0F8CJrohiIKTpNzzZSmnXNhyIF5XM17oZ-UbJ7p_BwUFe5GdNLg_ArUuRdXqqwxctEhd_vNEXc-8 - 302 0 null 13.3371ms
+2024-10-24 14:18:27.894 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:18:27.900 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:27.901 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:18:27.903 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:18:27.909 +03:00 [INF] Executed ViewResult - view Index executed in 5.6352ms.
+2024-10-24 14:18:27.912 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 8.3777ms
+2024-10-24 14:18:27.914 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:27.915 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 21.4776ms
+2024-10-24 14:18:27.936 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:27.937 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:27.946 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 9.0453ms
+2024-10-24 14:18:27.955 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.7911ms
+2024-10-24 14:18:29.860 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Login - null null
+2024-10-24 14:18:29.869 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:29.871 +03:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Login() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:18:29.878 +03:00 [INF] AuthenticationScheme: OpenIdConnect was challenged.
+2024-10-24 14:18:29.878 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI) in 5.7234ms
+2024-10-24 14:18:29.879 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:29.880 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Login - 302 0 null 20.2399ms
+2024-10-24 14:18:49.675 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/signin-oidc - application/x-www-form-urlencoded 615
+2024-10-24 14:18:49.840 +03:00 [INF] AuthenticationScheme: Cookies signed in.
+2024-10-24 14:18:49.841 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/signin-oidc - 302 0 null 166.1915ms
+2024-10-24 14:18:49.846 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:18:49.850 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:49.852 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:18:49.853 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:18:49.857 +03:00 [INF] Executed ViewResult - view Index executed in 3.3572ms.
+2024-10-24 14:18:49.859 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 6.488ms
+2024-10-24 14:18:49.862 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:49.866 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 19.8372ms
+2024-10-24 14:18:49.892 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:49.896 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.2361ms
+2024-10-24 14:18:49.911 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:49.922 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.8797ms
+2024-10-24 14:18:55.547 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/menu - null null
+2024-10-24 14:18:55.554 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:55.555 +03:00 [INF] Route matched with {action = "Index", controller = "Product", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, Int32) on controller Web_253505_Sniazhko.UI.Controllers.ProductController (Web_253505_Sniazhko.UI).
+2024-10-24 14:18:55.557 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:55.558 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:55.567 +03:00 [INF] Received HTTP response headers after 8.2155ms - 200
+2024-10-24 14:18:55.568 +03:00 [INF] End processing HTTP request after 11.0927ms - 200
+2024-10-24 14:18:55.569 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:55.570 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:55.589 +03:00 [INF] Received HTTP response headers after 17.8426ms - 200
+2024-10-24 14:18:55.590 +03:00 [INF] End processing HTTP request after 20.5911ms - 200
+2024-10-24 14:18:55.591 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:18:55.595 +03:00 [INF] Executed ViewResult - view Index executed in 4.0731ms.
+2024-10-24 14:18:55.597 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI) in 40.1579ms
+2024-10-24 14:18:55.598 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:18:55.600 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/menu - 200 null text/html; charset=utf-8 53.3597ms
+2024-10-24 14:18:55.624 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:55.625 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:55.628 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.1182ms
+2024-10-24 14:18:55.639 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.3222ms
+2024-10-24 14:18:56.564 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin - null null
+2024-10-24 14:18:56.570 +03:00 [INF] Executing endpoint '/Index'
+2024-10-24 14:18:56.571 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-10-24 14:18:56.572 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:18:56.574 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:56.575 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:18:56.586 +03:00 [INF] Received HTTP response headers after 9.2788ms - 200
+2024-10-24 14:18:56.587 +03:00 [INF] End processing HTTP request after 13.3556ms - 200
+2024-10-24 14:18:56.589 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-10-24 14:18:56.590 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-10-24 14:18:56.591 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:18:56.598 +03:00 [INF] Executed page /Index in 25.953ms
+2024-10-24 14:18:56.600 +03:00 [INF] Executed endpoint '/Index'
+2024-10-24 14:18:56.601 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin - 200 null text/html; charset=utf-8 36.7156ms
+2024-10-24 14:18:56.616 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:56.616 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:56.619 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.5334ms
+2024-10-24 14:18:56.630 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.1595ms
+2024-10-24 14:18:58.164 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - null null
+2024-10-24 14:18:58.171 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:18:58.172 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:18:58.173 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:18:58.175 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:58.176 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:58.181 +03:00 [INF] Received HTTP response headers after 4.5586ms - 200
+2024-10-24 14:18:58.183 +03:00 [INF] End processing HTTP request after 7.8227ms - 200
+2024-10-24 14:18:58.184 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:58.185 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:18:58.190 +03:00 [INF] Received HTTP response headers after 3.8751ms - 200
+2024-10-24 14:18:58.191 +03:00 [INF] End processing HTTP request after 7.248ms - 200
+2024-10-24 14:18:58.192 +03:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:18:58.197 +03:00 [INF] Executed page /Edit in 23.8726ms
+2024-10-24 14:18:58.198 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:18:58.200 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - 200 null text/html; charset=utf-8 35.4956ms
+2024-10-24 14:18:58.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:18:58.234 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:18:58.237 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.9084ms
+2024-10-24 14:18:58.249 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.4913ms
+2024-10-24 14:18:59.970 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - multipart/form-data; boundary=----WebKitFormBoundaryBHPcZrQ9I3BqPsRm 1225
+2024-10-24 14:18:59.977 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:18:59.978 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:18:59.980 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync - ModelState is "Valid"
+2024-10-24 14:18:59.982 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:59.984 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:18:59.989 +03:00 [INF] Received HTTP response headers after 4.5945ms - 200
+2024-10-24 14:18:59.991 +03:00 [INF] End processing HTTP request after 8.4685ms - 200
+2024-10-24 14:18:59.992 +03:00 [INF] Start processing HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:18:59.993 +03:00 [INF] Sending HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:18:59.998 +03:00 [INF] Received HTTP response headers after 4.3678ms - 403
+2024-10-24 14:19:00.000 +03:00 [INF] End processing HTTP request after 7.9872ms - 403
+2024-10-24 14:19:00.001 +03:00 [ERR] -----> Объект не обновлен. Error: Forbidden
+2024-10-24 14:19:00.061 +03:00 [INF] Executed page /Edit in 82.7457ms
+2024-10-24 14:19:00.063 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:19:00.110 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Объект не обновлен. Error: Forbidden
+   at Web_253505_Sniazhko.UI.ApiInteraction.Services.ApiProductService.UpdateProductAsync(Int32 id, Dish product, IFormFile formFile) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\ApiInteraction\Services\ApiProductService.cs:line 121
+   at Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync(Int32 id) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\Areas\Admin\Pages\Edit.cshtml.cs:line 91
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Convert[T](Object taskAsObject)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Web_253505_Sniazhko.UI.HelperClasses.LoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\HelperClasses\LoggingMiddleware.cs:line 14
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-10-24 14:19:00.128 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - 500 null text/html; charset=utf-8 158.0642ms
+2024-10-24 14:19:00.145 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:00.146 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:19:00.149 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.9844ms
+2024-10-24 14:19:00.163 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.1982ms
+2024-10-24 14:19:32.998 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-24 14:19:33.188 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-24 14:19:33.191 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-24 14:19:33.221 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 14:19:33.223 +03:00 [INF] Hosting environment: Development
+2024-10-24 14:19:33.225 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-24 14:19:34.313 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:19:34.657 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:34.748 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:19:34.763 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:19:35.086 +03:00 [INF] Executed ViewResult - view Index executed in 317.8114ms.
+2024-10-24 14:19:35.103 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 349.8277ms
+2024-10-24 14:19:35.103 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:35.107 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:35.118 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 14.3663ms
+2024-10-24 14:19:35.121 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 810.4794ms
+2024-10-24 14:19:35.143 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:19:35.218 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.13ms
+2024-10-24 14:19:37.426 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Logout - null null
+2024-10-24 14:19:37.438 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:37.447 +03:00 [INF] Route matched with {action = "Logout", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Logout() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:19:37.455 +03:00 [INF] AuthenticationScheme: Cookies signed out.
+2024-10-24 14:19:37.508 +03:00 [INF] AuthenticationScheme: OpenIdConnect signed out.
+2024-10-24 14:19:37.511 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI) in 62.2166ms
+2024-10-24 14:19:37.512 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:37.513 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Logout - 302 0 null 87.259ms
+2024-10-24 14:19:39.244 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsXIlLqtNFxBrqfoVUHuZiDTA7xViNfYHdLf2PVFrhLpM34vl_IIbw3dfBQQ3_irTPNE0ngkmVoM-zy4-KqCwHvgBatI3YVWrMWbOfKT_4hKcWIgqAPz5A6pkKF89hdM8BQ - null null
+2024-10-24 14:19:39.257 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsXIlLqtNFxBrqfoVUHuZiDTA7xViNfYHdLf2PVFrhLpM34vl_IIbw3dfBQQ3_irTPNE0ngkmVoM-zy4-KqCwHvgBatI3YVWrMWbOfKT_4hKcWIgqAPz5A6pkKF89hdM8BQ - 302 0 null 12.3081ms
+2024-10-24 14:19:39.261 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:19:39.265 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:39.267 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:19:39.269 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:19:39.276 +03:00 [INF] Executed ViewResult - view Index executed in 7.534ms.
+2024-10-24 14:19:39.278 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 9.2355ms
+2024-10-24 14:19:39.280 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:39.282 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 21.069ms
+2024-10-24 14:19:39.328 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:39.335 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 7.0676ms
+2024-10-24 14:19:39.342 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:19:39.363 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.8023ms
+2024-10-24 14:19:40.676 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Login - null null
+2024-10-24 14:19:40.682 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:40.686 +03:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Login() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:19:40.695 +03:00 [INF] AuthenticationScheme: OpenIdConnect was challenged.
+2024-10-24 14:19:40.697 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI) in 8.2945ms
+2024-10-24 14:19:40.699 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:40.700 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Login - 302 0 null 24.2438ms
+2024-10-24 14:19:47.192 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/signin-oidc - application/x-www-form-urlencoded 615
+2024-10-24 14:19:47.295 +03:00 [INF] AuthenticationScheme: Cookies signed in.
+2024-10-24 14:19:47.296 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/signin-oidc - 302 0 null 104.3104ms
+2024-10-24 14:19:47.301 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:19:47.306 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:47.307 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:19:47.309 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:19:47.313 +03:00 [INF] Executed ViewResult - view Index executed in 4.2634ms.
+2024-10-24 14:19:47.315 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 6.1602ms
+2024-10-24 14:19:47.317 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:19:47.319 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 18.3197ms
+2024-10-24 14:19:47.376 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:47.377 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:19:47.383 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 6.5324ms
+2024-10-24 14:19:47.397 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.5171ms
+2024-10-24 14:19:49.997 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin - null null
+2024-10-24 14:19:50.005 +03:00 [INF] Executing endpoint '/Index'
+2024-10-24 14:19:50.016 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-10-24 14:19:50.032 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:19:50.048 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:19:50.050 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:19:50.585 +03:00 [INF] Received HTTP response headers after 531.1915ms - 200
+2024-10-24 14:19:50.589 +03:00 [INF] End processing HTTP request after 542.7308ms - 200
+2024-10-24 14:19:50.598 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-10-24 14:19:50.600 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-10-24 14:19:50.601 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:19:50.626 +03:00 [INF] Executed page /Index in 608.0746ms
+2024-10-24 14:19:50.629 +03:00 [INF] Executed endpoint '/Index'
+2024-10-24 14:19:50.631 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin - 200 null text/html; charset=utf-8 633.4442ms
+2024-10-24 14:19:50.660 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:50.661 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:19:50.664 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.5599ms
+2024-10-24 14:19:50.676 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.2488ms
+2024-10-24 14:19:52.281 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - null null
+2024-10-24 14:19:52.287 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:19:52.295 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:19:52.299 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:19:52.302 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:19:52.303 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:19:52.468 +03:00 [INF] Received HTTP response headers after 164.1648ms - 200
+2024-10-24 14:19:52.471 +03:00 [INF] End processing HTTP request after 169.5329ms - 200
+2024-10-24 14:19:52.478 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:19:52.480 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:19:52.510 +03:00 [INF] Received HTTP response headers after 28.4475ms - 200
+2024-10-24 14:19:52.513 +03:00 [INF] End processing HTTP request after 35.1515ms - 200
+2024-10-24 14:19:52.516 +03:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:19:52.550 +03:00 [INF] Executed page /Edit in 254.1457ms
+2024-10-24 14:19:52.552 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:19:52.555 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - 200 null text/html; charset=utf-8 273.88ms
+2024-10-24 14:19:52.596 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:52.596 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:19:52.602 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 6.1122ms
+2024-10-24 14:19:52.619 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.1085ms
+2024-10-24 14:19:54.271 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - multipart/form-data; boundary=----WebKitFormBoundarygQHTWCl42AACnL74 1225
+2024-10-24 14:19:54.278 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:19:54.278 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:19:54.294 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync - ModelState is "Valid"
+2024-10-24 14:19:54.295 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:19:54.296 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:19:54.308 +03:00 [INF] Received HTTP response headers after 11.0879ms - 200
+2024-10-24 14:19:54.310 +03:00 [INF] End processing HTTP request after 14.1333ms - 200
+2024-10-24 14:19:54.313 +03:00 [INF] Start processing HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:19:54.315 +03:00 [INF] Sending HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:19:54.332 +03:00 [INF] Received HTTP response headers after 15.1148ms - 403
+2024-10-24 14:19:54.334 +03:00 [INF] End processing HTTP request after 21.2075ms - 403
+2024-10-24 14:19:54.337 +03:00 [ERR] -----> Объект не обновлен. Error: Forbidden
+2024-10-24 14:19:54.414 +03:00 [INF] Executed page /Edit in 135.2096ms
+2024-10-24 14:19:54.416 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:19:54.485 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Объект не обновлен. Error: Forbidden
+   at Web_253505_Sniazhko.UI.ApiInteraction.Services.ApiProductService.UpdateProductAsync(Int32 id, Dish product, IFormFile formFile) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\ApiInteraction\Services\ApiProductService.cs:line 121
+   at Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync(Int32 id) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\Areas\Admin\Pages\Edit.cshtml.cs:line 91
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Convert[T](Object taskAsObject)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Web_253505_Sniazhko.UI.HelperClasses.LoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\HelperClasses\LoggingMiddleware.cs:line 14
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-10-24 14:19:54.522 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - 500 null text/html; charset=utf-8 251.205ms
+2024-10-24 14:19:54.553 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:19:54.553 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:54.562 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 9.232ms
+2024-10-24 14:19:54.565 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.0871ms
+2024-10-24 14:19:57.279 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - null null
+2024-10-24 14:19:57.283 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:19:57.284 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:19:57.286 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:19:57.287 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:19:57.288 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:19:57.294 +03:00 [INF] Received HTTP response headers after 4.7683ms - 200
+2024-10-24 14:19:57.295 +03:00 [INF] End processing HTTP request after 8.3267ms - 200
+2024-10-24 14:19:57.297 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:19:57.298 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:19:57.304 +03:00 [INF] Received HTTP response headers after 5.0184ms - 200
+2024-10-24 14:19:57.305 +03:00 [INF] End processing HTTP request after 8.6666ms - 200
+2024-10-24 14:19:57.307 +03:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:19:57.312 +03:00 [INF] Executed page /Edit in 26.6151ms
+2024-10-24 14:19:57.313 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:19:57.314 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - 200 null text/html; charset=utf-8 35.0268ms
+2024-10-24 14:19:57.338 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:19:57.342 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.2917ms
+2024-10-24 14:20:01.930 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Logout - null null
+2024-10-24 14:20:01.936 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:01.937 +03:00 [INF] Route matched with {action = "Logout", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Logout() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:20:01.939 +03:00 [INF] AuthenticationScheme: Cookies signed out.
+2024-10-24 14:20:01.940 +03:00 [INF] AuthenticationScheme: OpenIdConnect signed out.
+2024-10-24 14:20:01.942 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI) in 3.3407ms
+2024-10-24 14:20:01.943 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:01.944 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Logout - 302 0 null 14.0465ms
+2024-10-24 14:20:01.969 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsVTNZID94ML2a-vmRHijbqmLlpn3QKkLaMH_7-_BfoVm8nf9JKbdpFpLzr_gT-fggyHuDitpFBn2_b3iFlUjTJhIRu1E62BtpZcR6mHF611c8KNx7shnSfln1jvGcRtpEM - null null
+2024-10-24 14:20:01.974 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsVTNZID94ML2a-vmRHijbqmLlpn3QKkLaMH_7-_BfoVm8nf9JKbdpFpLzr_gT-fggyHuDitpFBn2_b3iFlUjTJhIRu1E62BtpZcR6mHF611c8KNx7shnSfln1jvGcRtpEM - 302 0 null 5.5263ms
+2024-10-24 14:20:01.977 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:20:01.982 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:01.983 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:20:01.985 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:20:01.987 +03:00 [INF] Executed ViewResult - view Index executed in 2.6392ms.
+2024-10-24 14:20:01.989 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 5.0335ms
+2024-10-24 14:20:01.992 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:01.993 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 16.0897ms
+2024-10-24 14:20:02.024 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:20:02.024 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:20:02.034 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 9.9683ms
+2024-10-24 14:20:02.038 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.5113ms
+2024-10-24 14:20:09.107 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-24 14:20:09.337 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-24 14:20:09.339 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-24 14:20:09.366 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 14:20:09.370 +03:00 [INF] Hosting environment: Development
+2024-10-24 14:20:09.371 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-24 14:20:10.448 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:20:10.723 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:10.772 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:20:10.793 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:20:11.061 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:20:11.072 +03:00 [INF] Executed ViewResult - view Index executed in 279.2585ms.
+2024-10-24 14:20:11.088 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:11.091 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:20:11.092 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 316.488ms
+2024-10-24 14:20:11.096 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:20:11.101 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:11.111 +03:00 [INF] Executed ViewResult - view Index executed in 15.904ms.
+2024-10-24 14:20:11.116 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 669.1445ms
+2024-10-24 14:20:11.116 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 20.9024ms
+2024-10-24 14:20:11.125 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:11.129 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 68.3694ms
+2024-10-24 14:20:11.137 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:20:11.150 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 13.7937ms
+2024-10-24 14:20:11.180 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:20:11.185 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 5.338ms
+2024-10-24 14:20:11.189 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:20:11.263 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 73.8644ms
+2024-10-24 14:20:13.199 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Login - null null
+2024-10-24 14:20:13.210 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:13.217 +03:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Login() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:20:13.272 +03:00 [INF] AuthenticationScheme: OpenIdConnect was challenged.
+2024-10-24 14:20:13.275 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI) in 56.2433ms
+2024-10-24 14:20:13.277 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:13.278 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Login - 302 0 null 78.7789ms
+2024-10-24 14:20:17.419 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/signin-oidc - application/x-www-form-urlencoded 615
+2024-10-24 14:20:17.557 +03:00 [INF] AuthenticationScheme: Cookies signed in.
+2024-10-24 14:20:17.559 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/signin-oidc - 302 0 null 139.8953ms
+2024-10-24 14:20:17.595 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:20:17.601 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:17.602 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:20:17.604 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:20:17.626 +03:00 [INF] Executed ViewResult - view Index executed in 22.1365ms.
+2024-10-24 14:20:17.628 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 24.4175ms
+2024-10-24 14:20:17.631 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:20:17.634 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 38.8743ms
+2024-10-24 14:20:17.681 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:20:17.681 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:20:17.684 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.251ms
+2024-10-24 14:20:17.712 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.1984ms
+2024-10-24 14:20:19.321 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin - null null
+2024-10-24 14:20:19.327 +03:00 [INF] Executing endpoint '/Index'
+2024-10-24 14:20:19.338 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-10-24 14:20:19.351 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:20:19.368 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:20:19.371 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:20:19.981 +03:00 [INF] Received HTTP response headers after 607.671ms - 200
+2024-10-24 14:20:19.984 +03:00 [INF] End processing HTTP request after 618.4261ms - 200
+2024-10-24 14:20:19.992 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-10-24 14:20:19.995 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-10-24 14:20:19.996 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:20:20.017 +03:00 [INF] Executed page /Index in 676.7542ms
+2024-10-24 14:20:20.019 +03:00 [INF] Executed endpoint '/Index'
+2024-10-24 14:20:20.020 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin - 200 null text/html; charset=utf-8 699.0993ms
+2024-10-24 14:20:20.049 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:20:20.050 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:20:20.054 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.7291ms
+2024-10-24 14:20:20.070 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.8931ms
+2024-10-24 14:20:21.699 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - null null
+2024-10-24 14:20:21.704 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:20:21.711 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:20:21.717 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:20:21.719 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:20:21.720 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:20:21.870 +03:00 [INF] Received HTTP response headers after 149.1123ms - 200
+2024-10-24 14:20:21.872 +03:00 [INF] End processing HTTP request after 152.7474ms - 200
+2024-10-24 14:20:21.878 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:20:21.879 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:20:21.902 +03:00 [INF] Received HTTP response headers after 22.3191ms - 200
+2024-10-24 14:20:21.903 +03:00 [INF] End processing HTTP request after 25.5079ms - 200
+2024-10-24 14:20:21.906 +03:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:20:21.934 +03:00 [INF] Executed page /Edit in 222.0165ms
+2024-10-24 14:20:21.936 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:20:21.938 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - 200 null text/html; charset=utf-8 238.7126ms
+2024-10-24 14:20:21.964 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:20:21.965 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:20:21.968 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.9649ms
+2024-10-24 14:20:21.980 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.1716ms
+2024-10-24 14:20:25.015 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - multipart/form-data; boundary=----WebKitFormBoundaryAO23Qq6tpLzMAaEu 1224
+2024-10-24 14:20:25.022 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:20:25.023 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:20:25.038 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync - ModelState is "Valid"
+2024-10-24 14:20:25.041 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:20:25.044 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:20:25.056 +03:00 [INF] Received HTTP response headers after 11.4569ms - 200
+2024-10-24 14:20:25.057 +03:00 [INF] End processing HTTP request after 16.4491ms - 200
+2024-10-24 14:20:25.060 +03:00 [INF] Start processing HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:20:25.060 +03:00 [INF] Sending HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:20:25.073 +03:00 [INF] Received HTTP response headers after 12.0844ms - 403
+2024-10-24 14:20:25.074 +03:00 [INF] End processing HTTP request after 14.8374ms - 403
+2024-10-24 14:20:25.077 +03:00 [ERR] -----> Объект не обновлен. Error: Forbidden
+2024-10-24 14:20:25.155 +03:00 [INF] Executed page /Edit in 131.1848ms
+2024-10-24 14:20:25.156 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:20:25.219 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Объект не обновлен. Error: Forbidden
+   at Web_253505_Sniazhko.UI.ApiInteraction.Services.ApiProductService.UpdateProductAsync(Int32 id, Dish product, IFormFile formFile) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\ApiInteraction\Services\ApiProductService.cs:line 121
+   at Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync(Int32 id) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\Areas\Admin\Pages\Edit.cshtml.cs:line 91
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Convert[T](Object taskAsObject)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.ExecutorFactory.GenericTaskHandlerMethod.Execute(Object receiver, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeHandlerMethodAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeNextPageFilterAsync()
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Rethrow(PageHandlerExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Web_253505_Sniazhko.UI.HelperClasses.LoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\HelperClasses\LoggingMiddleware.cs:line 14
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-10-24 14:20:25.257 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - 500 null text/html; charset=utf-8 241.7297ms
+2024-10-24 14:20:25.283 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:20:25.284 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:20:25.294 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 10.3797ms
+2024-10-24 14:20:25.298 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 14.2356ms
+2024-10-24 14:21:04.583 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:21:04.590 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:04.591 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:04.594 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:21:04.598 +03:00 [INF] Executed ViewResult - view Index executed in 4.3533ms.
+2024-10-24 14:21:04.605 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 11.1884ms
+2024-10-24 14:21:04.606 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:04.607 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 25.3632ms
+2024-10-24 14:21:04.633 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:04.634 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:04.638 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.5987ms
+2024-10-24 14:21:04.652 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 17.887ms
+2024-10-24 14:21:04.884 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/favicon.ico - null null
+2024-10-24 14:21:04.891 +03:00 [INF] The file /favicon.ico was not modified
+2024-10-24 14:21:04.894 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/favicon.ico - 304 null image/x-icon 10.3872ms
+2024-10-24 14:21:07.110 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Logout - null null
+2024-10-24 14:21:07.114 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:07.118 +03:00 [INF] Route matched with {action = "Logout", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Logout() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:07.122 +03:00 [INF] AuthenticationScheme: Cookies signed out.
+2024-10-24 14:21:07.128 +03:00 [INF] AuthenticationScheme: OpenIdConnect signed out.
+2024-10-24 14:21:07.129 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI) in 8.9037ms
+2024-10-24 14:21:07.130 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:07.131 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Logout - 302 0 null 21.7873ms
+2024-10-24 14:21:08.917 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsVrenADBIdDH7m5nepBHspkUZBSadJlRNOrqALPvTSJir1UhYgW9qYRwiJNS7D8Sx1dlvjsBhXcpy_1H3hW1gj1f-Z9iWcSB1621aoL_oR_93yosTPj3yDkQdJPvkXp9VI - null null
+2024-10-24 14:21:08.929 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsVrenADBIdDH7m5nepBHspkUZBSadJlRNOrqALPvTSJir1UhYgW9qYRwiJNS7D8Sx1dlvjsBhXcpy_1H3hW1gj1f-Z9iWcSB1621aoL_oR_93yosTPj3yDkQdJPvkXp9VI - 302 0 null 11.6355ms
+2024-10-24 14:21:08.935 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:21:08.944 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:08.947 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:08.950 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:21:08.953 +03:00 [INF] Executed ViewResult - view Index executed in 3.6655ms.
+2024-10-24 14:21:08.956 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 6.9082ms
+2024-10-24 14:21:08.960 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:08.965 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 30.2943ms
+2024-10-24 14:21:09.013 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:09.020 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 7.8154ms
+2024-10-24 14:21:09.027 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:09.039 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.1184ms
+2024-10-24 14:21:14.695 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-24 14:21:14.896 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-24 14:21:14.898 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-24 14:21:14.924 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 14:21:14.926 +03:00 [INF] Hosting environment: Development
+2024-10-24 14:21:14.927 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-24 14:21:15.971 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:21:16.244 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:16.294 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:16.319 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:21:16.625 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:21:16.631 +03:00 [INF] Executed ViewResult - view Index executed in 317.1873ms.
+2024-10-24 14:21:16.640 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:16.642 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:16.642 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 341.4709ms
+2024-10-24 14:21:16.645 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:21:16.646 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:16.657 +03:00 [INF] Executed ViewResult - view Index executed in 12.7737ms.
+2024-10-24 14:21:16.660 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 15.7365ms
+2024-10-24 14:21:16.661 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 692.0579ms
+2024-10-24 14:21:16.664 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:16.675 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 50.035ms
+2024-10-24 14:21:16.687 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:16.701 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 13.8163ms
+2024-10-24 14:21:16.721 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:16.745 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:16.760 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 14.9543ms
+2024-10-24 14:21:16.797 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 76.6448ms
+2024-10-24 14:21:18.016 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Login - null null
+2024-10-24 14:21:18.028 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:18.040 +03:00 [INF] Route matched with {action = "Login", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Login() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:18.138 +03:00 [INF] AuthenticationScheme: OpenIdConnect was challenged.
+2024-10-24 14:21:18.142 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI) in 96.878ms
+2024-10-24 14:21:18.144 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Login (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:18.145 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Login - 302 0 null 129.564ms
+2024-10-24 14:21:19.898 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:19.905 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 7.3022ms
+2024-10-24 14:21:21.586 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/signin-oidc - application/x-www-form-urlencoded 615
+2024-10-24 14:21:21.733 +03:00 [INF] AuthenticationScheme: Cookies signed in.
+2024-10-24 14:21:21.734 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/signin-oidc - 302 0 null 147.881ms
+2024-10-24 14:21:21.766 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:21:21.777 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:21.778 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:21.780 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:21:21.802 +03:00 [INF] Executed ViewResult - view Index executed in 22.0276ms.
+2024-10-24 14:21:21.804 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 24.1933ms
+2024-10-24 14:21:21.806 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:21.809 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 43.3075ms
+2024-10-24 14:21:21.843 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:21.846 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.1146ms
+2024-10-24 14:21:21.859 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:21.894 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.6034ms
+2024-10-24 14:21:23.646 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin - null null
+2024-10-24 14:21:23.651 +03:00 [INF] Executing endpoint '/Index'
+2024-10-24 14:21:23.667 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-10-24 14:21:23.686 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:21:23.702 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:21:23.704 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:21:24.418 +03:00 [INF] Received HTTP response headers after 711.3995ms - 200
+2024-10-24 14:21:24.421 +03:00 [INF] End processing HTTP request after 720.7918ms - 200
+2024-10-24 14:21:24.435 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-10-24 14:21:24.438 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-10-24 14:21:24.439 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:21:24.460 +03:00 [INF] Executed page /Index in 790.7243ms
+2024-10-24 14:21:24.462 +03:00 [INF] Executed endpoint '/Index'
+2024-10-24 14:21:24.463 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin - 200 null text/html; charset=utf-8 816.8523ms
+2024-10-24 14:21:24.493 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:24.493 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:24.497 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.3454ms
+2024-10-24 14:21:24.513 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.4411ms
+2024-10-24 14:21:34.002 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - null null
+2024-10-24 14:21:34.009 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:21:34.016 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:21:34.022 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:21:34.025 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:21:34.025 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:21:34.195 +03:00 [INF] Received HTTP response headers after 167.5289ms - 200
+2024-10-24 14:21:34.196 +03:00 [INF] End processing HTTP request after 170.8971ms - 200
+2024-10-24 14:21:34.198 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:21:34.199 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 14:21:34.222 +03:00 [INF] Received HTTP response headers after 22.1106ms - 200
+2024-10-24 14:21:34.223 +03:00 [INF] End processing HTTP request after 24.76ms - 200
+2024-10-24 14:21:34.226 +03:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:21:34.254 +03:00 [INF] Executed page /Edit in 237.213ms
+2024-10-24 14:21:34.256 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:21:34.258 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin/Edit?id=3 - 200 null text/html; charset=utf-8 256.2361ms
+2024-10-24 14:21:34.287 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:34.288 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:34.291 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.9722ms
+2024-10-24 14:21:34.307 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 18.4764ms
+2024-10-24 14:21:37.961 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - multipart/form-data; boundary=----WebKitFormBoundaryBDOOtBFMLY25oAnf 1224
+2024-10-24 14:21:37.969 +03:00 [INF] Executing endpoint '/Edit'
+2024-10-24 14:21:37.970 +03:00 [INF] Route matched with {page = "/Edit", area = "Admin", action = "", controller = ""}. Executing page /Edit
+2024-10-24 14:21:37.987 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.EditModel.OnPostAsync - ModelState is "Valid"
+2024-10-24 14:21:37.991 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:21:37.994 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes/3
+2024-10-24 14:21:38.006 +03:00 [INF] Received HTTP response headers after 11.1061ms - 200
+2024-10-24 14:21:38.007 +03:00 [INF] End processing HTTP request after 16.3116ms - 200
+2024-10-24 14:21:38.009 +03:00 [INF] Start processing HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:21:38.010 +03:00 [INF] Sending HTTP request PUT https://localhost:7002/api/dishes/3
+2024-10-24 14:21:38.159 +03:00 [INF] Received HTTP response headers after 148.0524ms - 204
+2024-10-24 14:21:38.162 +03:00 [INF] End processing HTTP request after 152.5634ms - 204
+2024-10-24 14:21:38.164 +03:00 [INF] Executed handler method OnPostAsync, returned result Microsoft.AspNetCore.Mvc.RedirectToPageResult.
+2024-10-24 14:21:38.166 +03:00 [INF] Executing RedirectToPageResult, redirecting to ./Index.
+2024-10-24 14:21:38.167 +03:00 [INF] Executed page /Edit in 195.1941ms
+2024-10-24 14:21:38.168 +03:00 [INF] Executed endpoint '/Edit'
+2024-10-24 14:21:38.169 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7001/Admin/Edit?id=3 - 302 0 null 208.3676ms
+2024-10-24 14:21:38.173 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Admin - null null
+2024-10-24 14:21:38.178 +03:00 [INF] Executing endpoint '/Index'
+2024-10-24 14:21:38.179 +03:00 [INF] Route matched with {page = "/Index", area = "Admin", action = "", controller = ""}. Executing page /Index
+2024-10-24 14:21:38.181 +03:00 [INF] Executing handler method Web_253505_Sniazhko.UI.Areas.Admin.Pages.IndexModel.OnGetAsync - ModelState is "Valid"
+2024-10-24 14:21:38.182 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:21:38.183 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/dishes
+2024-10-24 14:21:38.191 +03:00 [INF] Received HTTP response headers after 7.0017ms - 200
+2024-10-24 14:21:38.192 +03:00 [INF] End processing HTTP request after 9.7724ms - 200
+2024-10-24 14:21:38.193 +03:00 [INF] Executed handler method OnGetAsync, returned result .
+2024-10-24 14:21:38.194 +03:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2024-10-24 14:21:38.194 +03:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2024-10-24 14:21:38.199 +03:00 [INF] Executed page /Index in 19.3009ms
+2024-10-24 14:21:38.201 +03:00 [INF] Executed endpoint '/Index'
+2024-10-24 14:21:38.202 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Admin - 200 null text/html; charset=utf-8 28.4616ms
+2024-10-24 14:21:38.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:38.233 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:38.237 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.8457ms
+2024-10-24 14:21:38.253 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.4328ms
+2024-10-24 14:21:42.491 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Account/Logout - null null
+2024-10-24 14:21:42.497 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:42.501 +03:00 [INF] Route matched with {action = "Logout", controller = "Account", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task Logout() on controller Web_253505_Sniazhko.UI.Controllers.AccountController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:42.504 +03:00 [INF] AuthenticationScheme: Cookies signed out.
+2024-10-24 14:21:42.507 +03:00 [INF] AuthenticationScheme: OpenIdConnect signed out.
+2024-10-24 14:21:42.508 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI) in 5.3295ms
+2024-10-24 14:21:42.509 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.AccountController.Logout (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:42.509 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Account/Logout - 302 0 null 18.4052ms
+2024-10-24 14:21:42.528 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsW2zQAeDh_4B15eg7orZvC1gXqjREUvfBc37Sz29JgPIx7iN-dOZu6U9-OrvwSG2ryA6JuUVlpLLKiVQpDmfUmHEtgQpHkzlxGlu2nHchdXAexGXgvGA4CZUO9ylu5UwMY - null null
+2024-10-24 14:21:42.534 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/signout-callback-oidc?state=CfDJ8BHR8IQnaN5HmeTwr_i9DsW2zQAeDh_4B15eg7orZvC1gXqjREUvfBc37Sz29JgPIx7iN-dOZu6U9-OrvwSG2ryA6JuUVlpLLKiVQpDmfUmHEtgQpHkzlxGlu2nHchdXAexGXgvGA4CZUO9ylu5UwMY - 302 0 null 6.2782ms
+2024-10-24 14:21:42.538 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 14:21:42.541 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:42.542 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 14:21:42.543 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 14:21:42.546 +03:00 [INF] Executed ViewResult - view Index executed in 2.7736ms.
+2024-10-24 14:21:42.548 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 4.5826ms
+2024-10-24 14:21:42.550 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 14:21:42.551 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 13.9066ms
+2024-10-24 14:21:42.580 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 14:21:42.580 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 14:21:42.584 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 4.4464ms
+2024-10-24 14:21:42.595 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 15.4264ms
+2024-10-24 21:59:14.983 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-24 21:59:15.182 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-24 21:59:15.193 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-24 21:59:15.235 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-24 21:59:15.236 +03:00 [INF] Hosting environment: Development
+2024-10-24 21:59:15.237 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-24 21:59:15.893 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-24 21:59:16.199 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 21:59:16.229 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-24 21:59:16.245 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-24 21:59:16.498 +03:00 [INF] Executed ViewResult - view Index executed in 255.3815ms.
+2024-10-24 21:59:16.508 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 276.0626ms
+2024-10-24 21:59:16.512 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 21:59:16.523 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 632.433ms
+2024-10-24 21:59:16.540 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Web_253505_Sniazhko.UI.styles.css?v=8wHgV-f52zCmi0_NWUhUCpn_RmaKjnMcrcaUQ3QHbWM - null null
+2024-10-24 21:59:16.542 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 21:59:16.542 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=3z43Rnfg8DpM8H8yoq-D4MNs5MyDc9byVhMcBTGtbOw - null null
+2024-10-24 21:59:16.551 +03:00 [INF] The file /Web_253505_Sniazhko.UI.styles.css was not modified
+2024-10-24 21:59:16.553 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 10.8421ms
+2024-10-24 21:59:16.553 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Web_253505_Sniazhko.UI.styles.css?v=8wHgV-f52zCmi0_NWUhUCpn_RmaKjnMcrcaUQ3QHbWM - 304 null text/css 13.479ms
+2024-10-24 21:59:16.559 +03:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\wwwroot\js\site.js'
+2024-10-24 21:59:16.560 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=3z43Rnfg8DpM8H8yoq-D4MNs5MyDc9byVhMcBTGtbOw - 200 773 text/javascript 18.762ms
+2024-10-24 21:59:16.572 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 21:59:16.980 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 408.4735ms
+2024-10-24 21:59:20.511 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/menu - null null
+2024-10-24 21:59:20.520 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 21:59:20.532 +03:00 [INF] Route matched with {action = "Index", controller = "Product", page = "", area = ""}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Index(System.String, Int32) on controller Web_253505_Sniazhko.UI.Controllers.ProductController (Web_253505_Sniazhko.UI).
+2024-10-24 21:59:20.565 +03:00 [INF] Start processing HTTP request GET https://localhost:7002/api/categories
+2024-10-24 21:59:20.567 +03:00 [INF] Sending HTTP request GET https://localhost:7002/api/categories
+2024-10-24 21:59:20.900 +03:00 [INF] Received HTTP response headers after 329.4057ms - 200
+2024-10-24 21:59:20.902 +03:00 [INF] End processing HTTP request after 337.9568ms - 200
+2024-10-24 21:59:20.916 +03:00 [INF] Start processing HTTP request POST http://localhost:8080/realms/master/protocol/openid-connect/token
+2024-10-24 21:59:20.918 +03:00 [INF] Sending HTTP request POST http://localhost:8080/realms/master/protocol/openid-connect/token
+2024-10-24 21:59:25.133 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI) in 4598.593ms
+2024-10-24 21:59:25.135 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.ProductController.Index (Web_253505_Sniazhko.UI)'
+2024-10-24 21:59:25.209 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Net.Http.HttpRequestException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. (localhost:8080)
+ ---> System.Net.Sockets.SocketException (10061): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Web_253505_Sniazhko.UI.Services.Authentication.KeycloakTokenAccessor.GetAccessTokenAsync() in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\Services\Authentication\KeycloakTokenAccessor.cs:line 38
+   at Web_253505_Sniazhko.UI.Services.Authentication.KeycloakTokenAccessor.SetAuthorizationHeaderAsync(HttpClient httpClient) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\Services\Authentication\KeycloakTokenAccessor.cs:line 50
+   at Web_253505_Sniazhko.UI.ApiInteraction.Services.ApiProductService.GetProductListAsync(String categoryNormalizedName, Int32 pageNo) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\ApiInteraction\Services\ApiProductService.cs:line 47
+   at Web_253505_Sniazhko.UI.Controllers.ProductController.Index(String category, Int32 pageNo) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\Controllers\ProductController.cs:line 26
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Web_253505_Sniazhko.UI.HelperClasses.LoggingMiddleware.InvokeAsync(HttpContext context) in C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\HelperClasses\LoggingMiddleware.cs:line 14
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-10-24 21:59:25.327 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/menu - 500 null text/html; charset=utf-8 4815.2997ms
+2024-10-24 21:59:25.353 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-24 21:59:25.353 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-24 21:59:25.356 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 3.1853ms
+2024-10-24 21:59:25.366 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.6167ms
+2024-10-26 11:05:29.329 +03:00 [INF] User profile is available. Using 'C:\Users\maksk\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-26 11:05:29.588 +03:00 [INF] Now listening on: https://localhost:7001
+2024-10-26 11:05:29.591 +03:00 [INF] Now listening on: http://localhost:5001
+2024-10-26 11:05:29.641 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-26 11:05:29.644 +03:00 [INF] Hosting environment: Development
+2024-10-26 11:05:29.646 +03:00 [INF] Content root path: C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI
+2024-10-26 11:05:31.855 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/ - null null
+2024-10-26 11:05:32.500 +03:00 [INF] Executing endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-26 11:05:32.593 +03:00 [INF] Route matched with {action = "Index", controller = "Home", page = "", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Web_253505_Sniazhko.UI.Controllers.HomeController (Web_253505_Sniazhko.UI).
+2024-10-26 11:05:32.626 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-26 11:05:33.212 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/Web_253505_Sniazhko.UI.styles.css?v=8wHgV-f52zCmi0_NWUhUCpn_RmaKjnMcrcaUQ3QHbWM - null null
+2024-10-26 11:05:33.213 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/js/site.js?v=3z43Rnfg8DpM8H8yoq-D4MNs5MyDc9byVhMcBTGtbOw - null null
+2024-10-26 11:05:33.215 +03:00 [INF] Executed ViewResult - view Index executed in 586.45ms.
+2024-10-26 11:05:33.241 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_vs/browserLink - null null
+2024-10-26 11:05:33.240 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-26 11:05:33.260 +03:00 [INF] Executed action Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI) in 656.5973ms
+2024-10-26 11:05:33.234 +03:00 [INF] The file /Web_253505_Sniazhko.UI.styles.css was not modified
+2024-10-26 11:05:33.268 +03:00 [INF] Executed endpoint 'Web_253505_Sniazhko.UI.Controllers.HomeController.Index (Web_253505_Sniazhko.UI)'
+2024-10-26 11:05:33.268 +03:00 [INF] Sending file. Request path: '/js/site.js'. Physical path: 'C:\Users\maksk\Desktop\Web_253505_Sniazhko\Web_253505_Sniazhko.UI\wwwroot\js\site.js'
+2024-10-26 11:05:33.274 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_framework/aspnetcore-browser-refresh.js - 200 13780 application/javascript; charset=utf-8 32.094ms
+2024-10-26 11:05:33.281 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/ - 200 null text/html; charset=utf-8 1429.5585ms
+2024-10-26 11:05:33.278 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/js/site.js?v=3z43Rnfg8DpM8H8yoq-D4MNs5MyDc9byVhMcBTGtbOw - 200 773 text/javascript 65.3185ms
+2024-10-26 11:05:33.272 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/Web_253505_Sniazhko.UI.styles.css?v=8wHgV-f52zCmi0_NWUhUCpn_RmaKjnMcrcaUQ3QHbWM - 304 null text/css 58.5225ms
+2024-10-26 11:05:33.343 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7001/_vs/browserLink - 200 null text/javascript; charset=UTF-8 102.9292ms

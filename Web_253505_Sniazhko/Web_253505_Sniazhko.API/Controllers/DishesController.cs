@@ -35,6 +35,7 @@ namespace Web_253505_Sniazhko.API.Controllers
         // GET: api/Dishes
         [HttpGet]
         [AllowAnonymous]
+  //      [Authorize]
         public async Task<ActionResult<ResponseData<List<Dish>>>> GetDishes(string? category, int pageNo = 1, int pageSize = 3)
         {
             return Ok(await _productService.GetProductListAsync(

@@ -22,6 +22,7 @@ namespace Web_253505_Sniazhko.UI.Controllers
         {
             CartContainer cart = HttpContext.Session.Get<CartContainer>("cart") ?? new();
             return View(cart);
+        //    return View(_cart); вообще нужно так
         }
         [HttpPost]
         [Authorize]

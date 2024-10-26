@@ -8,6 +8,9 @@ $(document).ready(function () {
     $(".ajax-link").on("click", function (event) {
         event.preventDefault();
         var url = $(this).attr("href");
+
+       // $('#dishList').load(url);
+
         $.ajax({
             url: url,
             type: 'GET',
